@@ -5,5 +5,6 @@ export const Container = styled.div`
     height: 100vh;
     display: flex;
     background: #333;
+    justify-content: center;
 
 `
