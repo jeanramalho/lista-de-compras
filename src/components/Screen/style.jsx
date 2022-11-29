@@ -3,6 +3,7 @@ import styled from 'styled-components'
 export const Container = styled.div`
         height: 100vh;
         max-width: 400px;
-        backgroun: #fff;
+        width: 367px;
+        background: #fff;
 
 `
