@@ -1,10 +1,11 @@
 import React from 'react';
 import { Container } from './style';
+import Header from '../Header'
 
 function Screen() {
   return (
     <Container>
-        <h1>Olá Mundo</h1>
+        <Header />
     </Container>
   );
 }
