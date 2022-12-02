@@ -11,7 +11,11 @@ function Header() {
                     <input type="number" />
                 </div>
                 
-                <input type="text" placeholder="Nome do Item"/>
+                <div className="itemName">
+                    <p>Nome do Item</p>
+                    <input type="text" placeholder="Nome do Item"/>
+                </div>
+                
                 
                 
             </div>
