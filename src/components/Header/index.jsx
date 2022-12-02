@@ -14,9 +14,7 @@ function Header() {
                 <div className="itemName">
                     <p>Nome do Item</p>
                     <input type="text" placeholder="Nome do Item"/>
-                </div>
-                
-                
+                </div> 
                 
             </div>
             
