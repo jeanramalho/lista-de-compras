@@ -6,8 +6,9 @@ function Header() {
         <Container>
             <div>
                 <h1 className="titulo">Lista de Compras</h1>
-                <input type="text" placeholder="Nome do Item"/>
                 <input type="number" />
+                <input type="text" placeholder="Nome do Item"/>
+                
                 
             </div>
             
