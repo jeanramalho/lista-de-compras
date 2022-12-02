@@ -6,7 +6,11 @@ function Header() {
         <Container>
             <div>
                 <h1 className="titulo">Lista de Compras</h1>
-                <input type="number" />
+                <div className="qtd">
+                    <p>QTD</p>
+                    <input type="number" />
+                </div>
+                
                 <input type="text" placeholder="Nome do Item"/>
                 
                 
