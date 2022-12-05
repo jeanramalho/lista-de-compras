@@ -8,7 +8,7 @@ export const Container = styled.div`
         .inputs {
             display: flex;
             flex-direction: row;
-            align-items: space-between;
+            justify-content: space-evenly;
 
         .quanti {
             width: 20%;
