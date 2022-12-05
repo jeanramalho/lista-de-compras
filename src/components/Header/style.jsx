@@ -7,10 +7,10 @@ export const Container = styled.div`
 
         .inputs {
             display: flex;
-            flex-direction: row
-        }
+            flex-direction: row;
+            align-items: space-between;
 
         .quanti {
-            width: 20%
+            width: 20%;
         }
 `
