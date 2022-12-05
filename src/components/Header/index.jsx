@@ -10,7 +10,7 @@ function Header() {
                 <div className="inputs">    
                     <div className="qtd">
                         <p>QTD</p>
-                        <input type="number" />
+                        <input type="number" className="quanti"/>
                     </div>
                     
                     <div className="itemName">

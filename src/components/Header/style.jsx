@@ -9,4 +9,8 @@ export const Container = styled.div`
             display: flex;
             flex-direction: row
         }
+
+        .quanti {
+            width: 20%
+        }
 `
