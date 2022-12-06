@@ -36,6 +36,7 @@ export const Container = styled.div`
             height: 30px;
             padding: 5px;
             margin-top: 8px;
+            border-color: #120A8f;
         }
 
         .qtd p {
@@ -49,6 +50,7 @@ export const Container = styled.div`
             height: 30px;
             padding: 5px;
             margin-top: 8px;
+            border-color: #120A8f;
         }
 
         .itemName p {
