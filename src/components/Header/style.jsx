@@ -4,6 +4,8 @@ export const Container = styled.div`
         display: flex;
         width: 100%;
         flex-direction: row;
+        aling-items: center; 
+        justify-content: space-between;
         padding-bottom: 10px;
         border-bottom: solid 2px #efefef;
 
@@ -11,7 +13,7 @@ export const Container = styled.div`
             width: 106%;
             display: flex;
             flex-direction: row;
-            aling-items: center;    
+               
         }
 
         .qtd {
@@ -27,7 +29,7 @@ export const Container = styled.div`
             height: 30px;
         }
 
-        
+
 
         
 
