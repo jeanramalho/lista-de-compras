@@ -9,11 +9,16 @@ export const Container = styled.div`
             width: 100%;
             display: flex;
             flex-direction: row;
-            aling-items: center;    
+            aling-items: ;    
             background: red;    
         }
 
         .quanti {
             width: 20%;
         }
+
+        .qtd {
+            width: 30%;
+        }
+       
 `
