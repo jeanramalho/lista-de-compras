@@ -16,7 +16,7 @@ export const Container = styled.div`
         }
 
         .inputs {
-            width: 106%;
+            width: 100%;
             display: flex;
             flex-direction: row;
             justify-content: space-around;
@@ -38,11 +38,23 @@ export const Container = styled.div`
             margin-top: 8px;
         }
 
+        .qtd p {
+            text-transform: uppercase;
+            font-weight: 800;
+            font-size: 10pt;
+        }
+
         .itemName input {
             border-radius: 5px;
             height: 30px;
             padding: 5px;
             margin-top: 8px;
+        }
+
+        .itemName p {
+            text-transform: uppercase;
+            font-weight: 800;
+            font-size: 10pt;
         }
 
 
