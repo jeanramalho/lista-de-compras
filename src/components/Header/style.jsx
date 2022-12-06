@@ -28,6 +28,15 @@ export const Container = styled.div`
         .qtd input {
             border-radius: 5px;
             height: 30px;
+            padding: 5px;
+            margin-top: 8px;
+        }
+
+        .itemName input {
+            border-radius: 5px;
+            height: 30px;
+            padding: 5px;
+            margin-top: 8px;
         }
 
 
