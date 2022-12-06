@@ -13,12 +13,15 @@ export const Container = styled.div`
             background: red;    
         }
 
-        .quanti {
+        .qtd {
             width: 20%;
         }
 
-        .qtd {
-            width: 30%;
+        .quanti {
+            width: 50%
         }
+
+        
+
        
 `
