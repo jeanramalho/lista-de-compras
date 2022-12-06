@@ -8,11 +8,10 @@ export const Container = styled.div`
         border-bottom: solid 2px #efefef;
 
         .inputs {
-            width: 100%;
+            width: 106%;
             display: flex;
             flex-direction: row;
             aling-items: center;    
-            background: red;    
         }
 
         .qtd {
