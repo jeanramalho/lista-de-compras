@@ -22,6 +22,13 @@ export const Container = styled.div`
             width: 50%
         }
 
+        .qtd input {
+            border-radius: 5px;
+            height: 30px;
+        }
+
+        
+
         
 
        
