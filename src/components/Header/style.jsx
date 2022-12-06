@@ -13,7 +13,8 @@ export const Container = styled.div`
             width: 106%;
             display: flex;
             flex-direction: row;
-               
+            justify-content: space-around;
+            aling-items: center;
         }
 
         .qtd {
