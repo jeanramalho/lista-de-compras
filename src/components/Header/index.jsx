@@ -5,7 +5,10 @@ function Header() {
     return (
         <Container>
             <div>
-                <h1 className="titulo">Lista de Compras</h1>
+                <div className="tit">
+                    <h1 className="titulo">Lista de Compras</h1>
+                </div>
+                
 
                 <div className="inputs">    
                     <div className="qtd">

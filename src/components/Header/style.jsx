@@ -8,6 +8,12 @@ export const Container = styled.div`
         justify-content: space-between;
         padding-bottom: 10px;
         border-bottom: solid 2px #efefef;
+        
+        .tit {
+            width: 100%;
+            text-align: center;
+            margin: 10px;
+        }
 
         .inputs {
             width: 106%;
