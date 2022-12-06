@@ -6,11 +6,14 @@ export const Container = styled.div`
         flex-direction: row;
 
         .inputs {
+            width: 100%;
             display: flex;
             flex-direction: row;
-            aling-items: center;        
+            aling-items: center;    
+            background: red;    
         }
 
         .quanti {
             width: 20%;
+        }
 `
