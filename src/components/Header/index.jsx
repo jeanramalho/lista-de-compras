@@ -20,6 +20,11 @@ function Header() {
                         <p>Nome do Item</p>
                         <input type="text" placeholder="Nome do Item"/>
                     </div> 
+
+                    <div className="valor">
+                        <p>Valor</p>
+                        <input type="number" className="itemValor" />
+                    </div>
                 </div>                
                 
             </div>
