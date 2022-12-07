@@ -45,6 +45,20 @@ export const Container = styled.div`
             font-size: 10pt;
         }
 
+        .valor input {
+            border-radius: 5px;
+            height: 30px;
+            padding: 5px;
+            margin-top: 8px;
+            border-color: #120A8f;
+        }
+
+        .valor p {
+            text-transform: uppercase;
+            font-weight: 800;
+            font-size: 10pt;
+        }
+
         .itemName input {
             border-radius: 5px;
             height: 30px;
