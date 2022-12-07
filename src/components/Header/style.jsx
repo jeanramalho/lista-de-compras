@@ -24,20 +24,22 @@ export const Container = styled.div`
         }
 
         .qtd {
-            width: 20%;
+            width: 10%;
+            margin: 10px;
         }
 
         .itemName {
-            width: 30%;
+            width: 40%;
         }
 
         .valor {
-            width: 30%;
+            25%;
         }
 
 
         .qtd input {
             border-radius: 5px;
+            width: 100%;
             height: 30px;
             padding: 5px;
             margin-top: 8px;
@@ -52,6 +54,7 @@ export const Container = styled.div`
 
         .valor input {
             border-radius: 5px;
+            width: 100%;
             height: 30px;
             padding: 5px;
             margin-top: 8px;

@@ -23,7 +23,7 @@ function Header() {
 
                     <div className="valor">
                         <p>Valor</p>
-                        <input type="number" className="itemValor" />
+                        <input type="text" className="itemValor" />
                     </div>
                 </div>                
                 
