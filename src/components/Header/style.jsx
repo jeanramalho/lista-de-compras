@@ -25,7 +25,6 @@ export const Container = styled.div`
 
         .qtd {
             width: 10%;
-            margin: 10px;
         }
 
         .itemName {
@@ -33,7 +32,7 @@ export const Container = styled.div`
         }
 
         .valor {
-            25%;
+            width: 25%;
         }
 
 
