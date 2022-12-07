@@ -27,9 +27,14 @@ export const Container = styled.div`
             width: 20%;
         }
 
-        .quanti {
-            width: 50%
+        .itemName {
+            width: 30%;
         }
+
+        .valor {
+            width: 30%;
+        }
+
 
         .qtd input {
             border-radius: 5px;
