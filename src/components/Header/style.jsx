@@ -24,15 +24,15 @@ export const Container = styled.div`
         }
 
         .qtd {
-            width: 10%;
+            width: 15%;
         }
 
         .itemName {
-            width: 50%;
+            width: 45%;
         }
 
         .valor {
-            width: 30%;
+            width: 25%;
         }
 
 
