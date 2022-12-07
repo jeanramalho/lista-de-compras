@@ -28,11 +28,11 @@ export const Container = styled.div`
         }
 
         .itemName {
-            width: 40%;
+            width: 50%;
         }
 
         .valor {
-            width: 25%;
+            width: 30%;
         }
 
 
@@ -68,6 +68,7 @@ export const Container = styled.div`
 
         .itemName input {
             border-radius: 5px;
+            width: 100%;
             height: 30px;
             padding: 5px;
             margin-top: 8px;
