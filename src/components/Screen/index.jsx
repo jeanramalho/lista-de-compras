@@ -7,6 +7,7 @@ function Screen() {
   return (
     <Container>
         <Header />
+        <Item />
     </Container>
   );
 }
